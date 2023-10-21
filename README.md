@@ -36,13 +36,13 @@ A turma se dividiu em dois times para a execução das tarefas, simulando a expe
 |-|-|-|
 | Back-end | Rafael Castro | [RafaelCastro1002](https://github.com/RafaelCastro1002) |
 | Back-end | Nathan Gauna | [NathanAlv](https://github.com/NathanAlv) |
-| Back-end | José Filho | [joseluizms](https://github.com/joseluizms) |
 | Back-end | Ryan Neto | [RyanMatheusNeto](https://github.com/RyanMatheusNeto) |
+| Back-end | José Filho | [joseluizms](https://github.com/joseluizms) |
 | Back-end | Murilo Souza | [MURILO17SILVA](https://github.com/MURILO17SILVA) |
-| Front-end | Paulo Ribeiro | [Paulodanielribeiro](https://github.com/Paulodanielribeiro) |
-| Front-end | Matheus Gomes | [mdccg](https://github.com/mdccg) |
 | Front-end | Diego Fernandes | [DIEG0FERNANDES](https://github.com/DIEG0FERNANDES) |
+| Front-end | Matheus Gomes | [mdccg](https://github.com/mdccg) |
 | Front-end | Abílio Soares | [abilio-charles](https://github.com/abilio-charles) |
+| Front-end | Paulo Ribeiro | [Paulodanielribeiro](https://github.com/Paulodanielribeiro) |
 | Front-end | Márcio Lipu | [Usuariodogithub](https://github.com/Usuariodogithub) |
 
 Cada time tinha uma espécie de Scrum Master cuja função era delegar tarefas aos demais colaboradores do time e ajudá-los, cobrindo a parte deles se necessário, para garantir a implementação do _backlog_ até o final da _sprint_ em questão. O Scrum Master do time do back-end foi o Rafael Castro, ao passo que os Scrum Masters (foi necessário dois devido à ausência de _skill-based matchmaking_[<sup>1</sup>](#nota-de-rodape-1) no time) fomos Diego Fernandes e eu. É digno de nota que, devido à dificuldade do time do front-end em finalizar o módulo administrativo, o próprio Prof. Sidney desenvolveu o módulo discente para agilizar a entrega do produto final.
