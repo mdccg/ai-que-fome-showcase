@@ -65,7 +65,7 @@ Os repositórios de código apresentados no Curso Superior de TSI do IFMS como r
 | [&larr; Repositório anterior](https://github.com/mdccg/i15d-fotorama) | [Próximo repositório &rarr;](#) |
 |-|-|
 
-<sup id="nota-de-rodape-1">1</sup> _Skill-based matchmaking_ é um sistema usado para combinar jogadores com outros jogadores de nível de habilidade semelhante em jogos multijogador em plataformas de jogos on-line. Neste parágrafo, eu quis dizer que todos os outros colaboradores do time menos experientes ou novatos. Em empresas, é comum haver um número máximo de Desenvolvedores Jr. e cada Desenvolvedor Jr. deve ser apadrinhado por um Desenvolvedor Sênior. Infelizmente, não foi o caso deste projeto. Observação: Este não é um termo comumente usado no ramo da computação, mas foi o único que encontrei para comunicar o problema com concisão.
+<sup id="nota-de-rodape-1">1</sup> _Skill-based matchmaking_ é um sistema usado para combinar jogadores com outros jogadores de nível de habilidade semelhante em jogos multijogador em plataformas de jogos on-line. Neste parágrafo, eu quis dizer que todos os outros colaboradores do time eram menos experientes ou novatos. Em empresas, é comum haver um número máximo de Desenvolvedores Jr. e cada Desenvolvedor Jr. deve ser apadrinhado por um Desenvolvedor Sênior. Infelizmente, não foi o caso deste projeto. Observação: Este não é um termo comumente usado no ramo da computação, mas foi o único que encontrei para comunicar o problema com concisão.
 
 ## Pilha de tecnologia
 
