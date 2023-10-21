@@ -78,6 +78,8 @@ Os repositórios de código apresentados no Curso Superior de TSI do IFMS como r
 | Armazenamento de imagens | [Firebase](https://firebase.google.com/?hl=pt) |
 | Mensageria | [Firebase](https://firebase.google.com/?hl=pt) |
 | Hospedagem do banco de dados | [MongoDB Atlas](https://www.mongodb.com/atlas/database) |
+| Ferramenta de TDD | [Postman](https://www.postman.com/) |
+| Documentação | [Swagger UI](https://swagger.io/) |
 | Hospedagem da API | [Vercel](https://vercel.com/) |
 
 ### Módulos administrativo e discente
